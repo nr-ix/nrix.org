@@ -2,7 +2,6 @@ export default defineAppConfig({
   docus: {
     title: 'NiceRoute Internet Exchange',
     description: 'This page could solve your most of the problems.',
-    image: 'https://m4nic-docs.pages.dev/img/static-image.png',
     socials: {
       // twitter: 'nuxtstudio',
       github: 'nr-ix'
