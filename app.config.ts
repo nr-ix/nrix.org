@@ -2,8 +2,8 @@ export default defineAppConfig({
   docus: {
     title: 'NiceRoute Internet Exchange',
     description: 'This page could solve your most of the problems.',
+    image: 'https://nrix.org/img/static-image.png',
     socials: {
-      // twitter: 'nuxtstudio',
       github: 'nr-ix'
     },
     aside: {
@@ -14,12 +14,6 @@ export default defineAppConfig({
       logo: true
     },
     footer: {
-      // iconLinks: [
-      //   {
-      //     href: 'https://nuxt.com',
-      //     icon: 'simple-icons:nuxtdotjs'
-      //   }
-      // ],
       textLinks: [
         {
           text: '2023 - 2023 NiceRoute Internet Exchange | Powered by 404 Network Information',
