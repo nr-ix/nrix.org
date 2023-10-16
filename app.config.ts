@@ -17,7 +17,7 @@ export default defineAppConfig({
       textLinks: [
         {
           text: '2023 - 2023 NiceRoute Internet Exchange | Powered by 404 Network Information',
-          href: ''
+          href: 'https://nrix.org'
         }
       ]
     }
